@@ -32,7 +32,7 @@ function App() {
         <div>
           {
             recomendedEvents.map((event , index) => (
-              <div key={index} className=" border-white h-80 w-40 ">
+              <div key={index} className = " border-white h-80 w-40 ">
                 <EventCard  event = {event}      /> 
               </div>
             ))
