@@ -1,0 +1,6 @@
+.bg-custom-bg {
+    background-image: url('./Banner.svg');
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100vw;
+}
